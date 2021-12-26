@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project Work</string>
+    <string name="tab_text_1">Create</string>
+    <string name="tab_text_2">Edit</string>
+    <string name="tab_text_3">View</string>
+    <string name="tab_text_4">Profile</string>
+    <string name="tab_text_5">Picture</string>
+</resources>
