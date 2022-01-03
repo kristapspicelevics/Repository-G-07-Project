@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990812696585",
+    "project_id": "project-work-4bd63",
+    "storage_bucket": "project-work-4bd63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990812696585:android:91b3a6acf7f617278188d8",
+        "android_client_info": {
+          "package_name": "lv.kristaps.projectwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990812696585-bhtig7d0f87un137ig7qutto8s390t56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbHWMkBGxyWkewdwj01Pt2xcTMg3iglNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990812696585-bhtig7d0f87un137ig7qutto8s390t56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
